@@ -10,3 +10,5 @@ hey hey heeeeey !!!!
 advance the master branch
 
 This line is from feature-branch
+
+just fixed a bug
