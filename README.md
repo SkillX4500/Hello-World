@@ -11,3 +11,5 @@ advance the master branch
 This line is from feature-branch
 
 just fixed a bug
+
+this will advance the new-branch
